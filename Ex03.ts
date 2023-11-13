@@ -55,7 +55,7 @@ export const persons: Person[] = [
 
 export function logPerson(person: Person) {
     let additionalInformation: string;
-    if ('role' in person) {
+    if ('role' in person) { // exist role in person ? true : false
         additionalInformation = person.role;
     } else {
         additionalInformation = person.occupation;
