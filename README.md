@@ -5,3 +5,4 @@ https://typescript-exercises.github.io/
 - [No.01](https://github.com/heeeione/TypeScript-Exercise/blob/main/Ex01.ts) : Define interface
 - [No.02](https://github.com/heeeione/TypeScript-Exercise/blob/main/Ex02.ts) : Define Union type
 - [No.03](https://github.com/heeeione/TypeScript-Exercise/blob/main/Ex03.ts) : in operator narrow
+- [No.04](https://github.com/heeeione/TypeScript-Exercise/blob/main/Ex04.ts) : is operator
