@@ -7,3 +7,4 @@ https://typescript-exercises.github.io/
 - [No.03](https://github.com/heeeione/TypeScript-Exercise/blob/main/Ex03.ts) : in operator narrow
 - [No.04](https://github.com/heeeione/TypeScript-Exercise/blob/main/Ex04.ts) : is operator
 - [No.05](https://github.com/heeeione/TypeScript-Exercise/blob/main/Ex05.ts) : Utility type (Partial), [참고](https://kyounghwan01.github.io/blog/TS/fundamentals/utility-types/#partial)
+- [No.06](https://github.com/heeeione/TypeScript-Exercise/blob/main/Ex06.ts) : function overload
